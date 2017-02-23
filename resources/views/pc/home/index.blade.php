@@ -86,11 +86,8 @@
                 <img src="{{ url('build//i/f10.jpg') }}" alt="" class="am-u-sm-12">
             </div>
             <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article &nbsp;</a></span>
-                <span> @amazeUI &nbsp;</span>
-                <span>2015/10/9</span>
-                <h1><a href="">我本楚狂人，凤歌笑孔丘</a></h1>
-                <p>我们一直在坚持着，不是为了改变这个世界，而是希望不被这个世界所改变。
+                <h1><a href="">天下第一家，江州一义门陈</a></h1>
+                <p>陈姓在中国属于大姓，位于五大姓之列，占全国人口比例达到百分之四点五左右。在陈姓的各个分支中，义门陈氏最为著名。义门陈氏，又称为江右陈氏、江州陈氏。
                 </p>
                 <p><a href="" class="blog-continue">continue reading</a></p>
             </div>
@@ -101,11 +98,8 @@
                 <img src="{{ url('build//i/f6.jpg') }}" alt="" class="am-u-sm-12">
             </div>
             <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article&nbsp;</a></span>
-                <span>@amazeUI &nbsp;</span>
-                <span>2015/10/9</span>
-                <h1><a href="">世间所有的相遇，都是久别重逢。</a></h1>
-                <p>你可以选择在原处不停地跟周遭不解的人解释你为何这么做，让他们理解你，你可以选择什么都不讲，自顾自往前走。
+                <h1><a href="">历史烟尘里的东佳书院：世界最早的民办学院</a></h1>
+                <p>东佳书院，由德安义门陈氏始创于唐末。陈氏家族是唐宋时期江南罕见的累世聚居大家族。唐玄宗开元十九年（731年），义门陈氏始祖陈旺举家迁至九江郡蒲塘场太平乡常乐里永清村（即今江西德安县车桥镇义门陈村），开创基业，创办了培养陈氏子弟的家族私塾。
                 </p>
                 <p><a href="" class="blog-continue">continue</a></p>
             </div>
@@ -116,26 +110,8 @@
                 <img src="{{ url('build//i/f12.jpg') }}" alt="" class="am-u-sm-12">
             </div>
             <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article&nbsp;</a></span>
-                <span>@amazeUI</span>
-                <span>2015/10/9</span>
-                <h1><a href="">陌上花开，可缓缓归矣。</a></h1>
-                <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
-                </p>
-                <p><a href="" class="blog-continue">continue</a></p>
-            </div>
-        </article>
-
-        <article class="am-g blog-entry-article">
-            <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-img">
-                <img src="{{ url('build//i/f22.jpg') }}" alt="" class="am-u-sm-12">
-            </div>
-            <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article&nbsp;</a></span>
-                <span>@amazeUI</span>
-                <span>2015/10/9</span>
-                <h1><a href="">爱自己是终生浪漫的开始</a></h1>
-                <p>the whole of life becomes an act of letting go, but what always hurts the most is not taking a moment to say goodbye
+                <h1><a href="">聚居三千口人间第一，同居五百年天下无双。</a></h1>
+                <p>14代贤能家长，创造几百年几千人的大家族桃花园记式的理想主义生活，没有压迫剥削的共产主义和谐家园。
                 </p>
                 <p><a href="" class="blog-continue">continue</a></p>
             </div>
@@ -146,11 +122,20 @@
                 <img src="{{ url('build//i/f18.jpg') }}" alt="" class="am-u-sm-12">
             </div>
             <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article&nbsp;</a></span>
-                <span> @amazeUI &nbsp;</span>
-                <span>2015/10/9</span>
-                <h1><a href="">My dear amazeUI, Hello </a></h1>
-                <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
+                <h1><a href="">台湾师范大学教授——陈大络</a></h1>
+                <p>陈大络(1920- ),福建尤溪人，原寓居台北，今定居厦门。台湾著名书法家学者，台湾师范大学教授，国立华侨大学客座教授，亚西亚神学研究院博士班教授。李敖、连战的老师。当代著名书法家、学者、社会活动家、文物鉴藏家。强烈的爱国主义者。
+                </p>
+                <p><a href="" class="blog-continue">continue</a></p>
+            </div>
+        </article>
+
+        <article class="am-g blog-entry-article">
+            <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-img">
+                <img src="{{ url('build//i/f26.jpg') }}" alt="" class="am-u-sm-12">
+            </div>
+            <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
+                <h1><a href="">香港陈英灿教授</a></h1>
+                <p>1947年生于广东佛山，现为香港文山斋艺术中心懂事经理，香港中国美术会会员。1969年毕业于香港万国艺术专科学校，1982年毕业于岭南艺苑。作品曾多次入选全国书法篆刻大展。1969年获香港画展冠军，1997年获香港回归中国书画大展金奖。荷花系列作品多次获国际大展奖项，此作荣获九八年中国艺术博览会优秀作品奖，并由中国文化部副部长潘云宙新颁授。
                 </p>
                 <p><a href="" class="blog-continue">continue reading</a></p>
             </div>
@@ -161,11 +146,8 @@
                 <img src="{{ url('build//i/f20.jpg') }}" alt="" class="am-u-sm-12">
             </div>
             <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article&nbsp;</a></span>
-                <span> @amazeUI &nbsp;</span>
-                <span>2015/10/9</span>
-                <h1><a href="">My way or the highway</a></h1>
-                <p>A big wind rises， clouds are driven away. Home am Inow the world is under my sway. Where are brave men to guard the four frontiers today！
+                <h1><a href="">江州义门陈座落在风景秀美的庐山脚下，风景怡人。</a></h1>
+                <p>江州义门陈座落在风景秀美的庐山脚下，清波碧浪的鄱阳湖畔，古属江州辖地，祖祠现属德安县车桥镇境内。北与瑞昌市交界，西与武宁县接壤，南与永修县毗邻，素有“德安西大门”之称。地理分布为“七山半水半分田，一分道路和庄园”。
                 </p>
                 <p><a href="" class="blog-continue">continue reading</a></p>
             </div>
@@ -176,11 +158,8 @@
                 <img src="{{ url('build//i/f19.jpg') }}" alt="" class="am-u-sm-12">
             </div>
             <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                <span><a href="" class="blog-color">article&nbsp;</a></span>
-                <span> @amazeUI &nbsp;</span>
-                <span>2015/10/9</span>
-                <h1><a href="">一想到你，我这张丑脸上就泛起微笑</a></h1>
-                <p>那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。
+                <h1><a href="">义门流芳</a></h1>
+                <p>义门陈氏自建庄至分析，跨两朝，历时三百三十二年，先后累受唐宋两朝数位帝王的亲笔敕赐旌表和诸多将相名流诗赋赞誉。
                 </p>
                 <p><a href="" class="blog-continue">continue reading</a></p>
             </div>
@@ -196,10 +175,10 @@
         <div class="blog-sidebar-widget blog-bor">
             <h2 class="blog-text-center blog-title"><span>About ME</span></h2>
             <img src="{{ url('build//i/f14.jpg') }}" alt="about me" class="blog-entry-img" >
-            <p>妹纸</p>
+            <p>陈芳龙</p>
             <p>
-                我是妹子UI，中国首个开源 HTML5 跨屏前端框架
-            </p><p>我不想成为一个庸俗的人。十年百年后，当我们死去，质疑我们的人同样死去，后人看到的是裹足不前、原地打转的你，还是一直奔跑、走到远方的我？</p>
+                陈芳龙，(1988-)，江西鄱阳人
+            </p>
         </div>
         <div class="blog-sidebar-widget blog-bor">
             <h2 class="blog-text-center blog-title"><span>Contact ME</span></h2>
